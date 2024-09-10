@@ -99,10 +99,9 @@ li{
     margin-bottom: 42px;
 }
 
-.item2 .category a:focus{
+.item2 .category .here{
     background-color:#000000;
-    color: #ffffff;
-
+    color: #ffffff; 
 }
 
 
